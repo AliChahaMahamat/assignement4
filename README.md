@@ -1,16 +1,15 @@
-# my_assignment3
+<img width="238" alt="image" src="https://github.com/AliChahaMahamat/assignement4__25207/assets/146058643/52f7d9f3-4dbc-4e4f-9455-0f599cf363b7">
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="209" alt="image" src="https://github.com/AliChahaMahamat/assignement4__25207/assets/146058643/d2c64240-c7c2-42b4-9793-7bb768da156e">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="142" alt="image" src="https://github.com/AliChahaMahamat/assignement4__25207/assets/146058643/4672492d-97a8-45dc-9153-dcca15f487d8">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img width="266" alt="image" src="https://github.com/AliChahaMahamat/assignement4__25207/assets/146058643/e6eb62ee-d389-4787-8d5f-b54fab716754">
+
+
+<img width="218" alt="image" src="https://github.com/AliChahaMahamat/assignement4__25207/assets/146058643/8ddaa9e4-f83a-400a-afdb-54f5dc078793">
+
